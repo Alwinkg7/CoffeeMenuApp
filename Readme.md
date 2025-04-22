@@ -128,13 +128,13 @@ Snapshot tests are included for components like `ThemedText`.
 ## 🖼️ Screenshots
 
 ### Home Screen
-![Home Screen](ScreenShots\Home.jpg)
+![Home Screen](./ScreenShots/Home.jpg)
 
 ### Menu Screen
-![Menu Screen](ScreenShots\Menu.jpg)
+![Menu Screen](./ScreenShots/Menu.jpg)
 
 ### Contact Screen
-![Contact Screen](ScreenShots\Contact.jpg)
+![Contact Screen](./ScreenShots/Contact.jpg)
 
 ---
 
